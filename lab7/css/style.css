@@ -1,0 +1,245 @@
+body {
+    margin: 0 0 0 0;
+    padding: 0;
+    font-family: 'Arial', serif;
+    font-size: 20px;
+    overflow: visible;
+}
+#Maria_Sharapova {
+    height: 500px;
+    width: 900px;
+}
+#msb {
+    height: 600px;
+    width: 1100px;
+}
+
+img {
+    width: auto;
+    height: auto;
+    max-height: 18rem;
+    max-width: 24rem;
+    margin-top: 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#content {
+    margin: 230px 0 0px 0;
+    padding: 10px 0 10px 0;
+    background-color: white;
+}
+
+.container {
+    background-color: white;
+    opacity: 0.9;
+    margin-top: 50px;
+    width: 100%
+}
+
+#content_wrapper {
+    position: relative;
+    margin: auto;
+    color: #000000;
+}
+
+#header_content {
+    font-size: 27px;
+}
+
+.bg-dark {
+    background-color: black!important;
+}
+
+.footer-copyright {
+    background-color: black;
+    color: white;
+    font-family: 'Arial', serif;
+    font-size: 15px;
+    position:static;
+    
+}
+body {
+    margin: 0 0 0 0;
+    padding: 0;
+    font-family: 'Arial', serif;
+    font-size: 20px;
+    background-image: url(/img/1.jpg);
+    overflow: visible;
+    display: inline-block;
+}
+
+
+#content {
+    margin: 230px 0 0px 0;
+    padding: 10px 0 10px 0;
+    background-color: white;
+    display: inline-block;
+}
+
+.container {
+    background-color: white;
+    opacity: 0.95;
+    margin-top: 20px;
+}
+
+#content_wrapper {
+    position: relative;
+    margin: auto;
+    color: #000000;
+}
+
+#header_content {
+    text-align: center;
+    font-size: 27px;
+}
+
+.bg-dark {
+    background-color: black!important;
+}
+
+.footer-copyright {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    
+}
+
+.img-fluid{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+/*News*/
+.card-img-top {
+    height: 250px;
+    width: 250px;
+    display: inline-block;
+}
+.card-block{
+    height: auto;
+    width: 250px;
+    display: inline-block;
+}
+
+.card {
+    display: inline-block;
+    justify-content: center;
+    display: inline-block;}
+
+.card:firt-child {
+    margin-left: 0px;
+    display: inline-block;
+}
+
+#header_content1{
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.img-responsive{
+    height: auto;
+    width: 400px;
+}
+
+
+
+/*Fans*/
+
+.form-control{
+    width: 650px;
+    height: 1000px;
+}
+
+#submitBtn{
+    background-color: #800000;
+}
+
+#submit-btn{
+    background-color: #800000;
+}
+
+ ul.hr {
+    margin: 0;
+    padding: 4px; 
+}
+
+   ul.hr li {
+    display: inline; 
+    padding: 3px; 
+}
+
+.item1{
+    float: right;
+    border: 1px solid #000; 
+}
+
+.line { 
+    border-bottom: 2px solid #000000; 
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+   }
+.card {
+    margin: 60px 10px 0px 10px;
+    padding: 10px 30px 30px 30px;
+    font-size: 17px;
+    color: #545454;
+	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(241,241,241,1) 50%,rgba(225,225,225,1) 51%,rgba(246,246,246,1) 100%);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	width: 18rem;
+    display: inline-block;
+   margin: auto;
+    padding: 10px;
+    vertical-align: top;
+    min-height: 40rem;
+    position: relative;
+}
+.card_block{
+    display: inline-block;
+}
+.table-responsive{
+    display: inline-block;
+}
+.news_title {
+	font-size: 25px;
+	text-align: center;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-color: #6d6d6d;
+	border-radius: 2px;
+    display: inline-block;
+}
+
+#content_news {
+	margin: 15px 15px 15px 30px;
+    padding: 10px 0 90px 0;
+	background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);				
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    display: inline-block;
+}
+
+#content_wrapper_news {								
+	margin: 0 auto;
+	color: #545454;
+	text-align: center;
+    display: inline-block;
+}
+
+#content_wrapper_news img {
+    height: 15rem;
+    width: 15rem;
+    transition-duration: 1s;
+    display: inline-block;
+}
+
+#content_wrapper_news img:hover {
+    transform: scale(1.4);
+    transition-duration: 1s; 
+    display: inline-block;
+}
+
+#content_wrapper_news h1 {
+    text-align: center;
+    font-size: 35px;
+    display: inline-block;
+}
