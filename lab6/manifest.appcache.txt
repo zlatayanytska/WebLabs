@@ -1,0 +1,28 @@
+CACHE MANIFEST
+
+index.html
+contacts.html
+fans.html
+news.html
+calendar.html
+
+css/styles.css
+
+karta.png
+MariaSharapova.jpg
+ms11.jpg
+msb.jpg
+news1.jpg
+news2.jpg
+news3.jpg
+news4.jpeg
+
+
+
+https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css
+https://code.jquery.com/jquery-3.3.1.slim.min.js
+https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js
+https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js
+
+FALLBACK:
+. error.html
